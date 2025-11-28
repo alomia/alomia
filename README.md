@@ -1,7 +1,9 @@
-# Hi, I'm Alejandro :wave: :man_technologist:
+### Hi there, I'm [Alejandro][website] 👋
+
+- 🌱 Focused on **Flutter**, **Dart**, **Go**, and software development  
+- 🧩 Exploring **clean architecture**, sustainable code, APIs, and modern development workflows  
+- 💻 Building personal tools, applications, and experiments to improve my skills  
+- 🔧 Interested in cloud platforms, performance, and developer productivity  
 
 
-
-<img src="./imgs/alomia-main-image.png" alt="">
-
-I am a software engineer passionate about back-end web development with python, I also like to make console applications in c/c++ or Rust and solve algorithms.
+[website]: [https://francescovll.com](https://www.linkedin.com/in/alejandro-alomia-backend-developer/)
